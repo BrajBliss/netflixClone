@@ -1,12 +1,11 @@
-import React from 'react';
+import { ArrowBackOutlined } from '@material-ui/icons';
 import './watch.scss';
-import { ArrowBackIosOutlined } from '@material-ui/icons';
 
-const Watch = () => {
+export default function Watch() {
 	return (
 		<div className='watch'>
 			<div className='back'>
-				<ArrowBackIosOutlined />
+				<ArrowBackOutlined />
 				Home
 			</div>
 			<video
@@ -14,10 +13,8 @@ const Watch = () => {
 				autoPlay
 				progress
 				controls
-				src='https://vod-progressive.akamaized.net/exp=1633620047~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2715%2F21%2F538575900%2F2552393707.mp4~hmac=70032c536d39008ec41a8fb4abb18b22c9178cdb922db07ba82c3e83eec2211d/vimeo-prod-skyfire-std-us/01/2715/21/538575900/2552393707.mp4?filename=pexels-mart-production-7565881.mp4'
+				src='https://vod-progressive.akamaized.net/exp=1624452918~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2400%2F14%2F362003850%2F1486625955.mp4~hmac=d6f829e7bb83f1ee6a28047d00aa2c1083c8fe5036c8084a4adf1c3903085856/vimeo-prod-skyfire-std-us/01/2400/14/362003850/1486625955.mp4'
 			/>
 		</div>
 	);
-};
-
-export default Watch;
+}
