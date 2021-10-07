@@ -1,5 +1,10 @@
 # netflixClone
 
-Build entirely on the MERN stack, a full Netflix Clone
+Build entirely on the MERN stack (npm), a full Netflix Clone
+
+## Installation
+
+### Find and install the dependencies inside client and server sides' `package.json`
 
 > Started on 5th October (README update soon)
+> ATM: working on the client side
