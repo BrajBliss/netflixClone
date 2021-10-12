@@ -14,4 +14,4 @@ SECRET_KEY = YourSecretKey for CryptoJS
 ```
 
 > Started on 5th October (README update soon)
-> ATM: working on the server side (RESTapi)
+> ATM: working on connecting client and server sides
