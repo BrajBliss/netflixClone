@@ -13,9 +13,7 @@ export default function Featured({ type, setGenre }) {
 					headers: {
 						token:
 							'Bearer ' +
-							eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
-								.eyJpZCI6IjYxNjQwNDhlNTBhYjVjYjJiMDU1ZDY2YSIsImlzQWRtaW4iOnRydWUsImlhdCI6MTYzNDA1NTUyNSwiZXhwIjo4ODAzMzk2OTEyNX0
-								.nh0gQJ4hRs71eqryU4cW2d1lk8BJeZZRw7nm_bxEw7k,
+							eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxNjQwNDhlNTBhYjVjYjJiMDU1ZDY2YSIsImlzQWRtaW4iOnRydWUsImlhdCI6MTYzNDEyOTYxNywiZXhwIjo4ODAzNDA0MzIxN30.vNGNUXd6Mx_UKCHIHH8BYnNsGXe0w9QAGubgH60MkDI,
 					},
 				});
 				setContent(res.data[0]);

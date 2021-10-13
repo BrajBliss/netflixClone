@@ -13,5 +13,7 @@ MONGO_URL = YourDatabaseConnectionUrl
 SECRET_KEY = YourSecretKey for CryptoJS
 ```
 
+### Remember to replace Bearer `token` with your accessToken using login api
+
 > Started on 5th October (README update soon)
-> ATM: working on connecting client and server sides
+> ATM: working on connecting client and server sides with admin panel
