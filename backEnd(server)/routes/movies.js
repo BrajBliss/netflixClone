@@ -12,7 +12,7 @@ router.post('/', verify, async (req, res) => {
 			const savedMovie = await newMovie.save();
 			res.status(201).json(savedMovie);
 		} catch (err) {
-			res.status.status(500).json(err);
+			res.status(500).json(err);
 		}
 	} else {
 		res.status(403).json('You are not allowed');
