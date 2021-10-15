@@ -53,7 +53,7 @@
 				padding: 10px;
 
 				&::placeholder {
-					color: lightgray;
+					color: white;
 				}
 			}
 
@@ -68,12 +68,12 @@
 				cursor: pointer;
 			}
 
-            span{
-                color: lightgray;
-                b{
-                    color: white;
-                }
-            }
+			span {
+				color: lightgray;
+				b {
+					color: white;
+				}
+			}
 		}
 	}
 }
