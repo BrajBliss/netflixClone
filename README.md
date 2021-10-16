@@ -20,6 +20,10 @@ Build entirely on the MERN stack (npm), a full Netflix Clone
 - Same functions with lists
 - Graphs and other data
 
+## Preview
+
+https://user-images.githubusercontent.com/50140643/137589982-7fef74c2-5b4f-48f7-833e-8193f584f5da.mp4
+
 ## Installation
 
 ### Dependencies
@@ -43,7 +47,3 @@ SECRET_KEY = YourSecretKey for CryptoJS
 > Do note that it does not support editing existing content because I do not have time to add that. It is easy once you have gone through the full project anyway. NO credit goes to me, all thanks to the tutor.
 
 > Credits: LamaDev (YT)
-
-## Preview
-
-https://user-images.githubusercontent.com/50140643/137589982-7fef74c2-5b4f-48f7-833e-8193f584f5da.mp4
