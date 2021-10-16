@@ -35,7 +35,8 @@ Don't install `npm i firebase`
 
 Use `npm i firebase@8.7.1`
 
-### If you are using full token @ `Bearer accessToken` then make sure to replace your accessToken everytime you log in using the loginApi otherwise you will not be authorized
+### Tokens 
+If you are using full token @ `Bearer accessToken` then make sure to replace your accessToken everytime you log in using the loginApi otherwise you will not be authorized
 
 ### In `.env` file inside server, put
 
