@@ -48,3 +48,5 @@ SECRET_KEY = YourSecretKey for CryptoJS
 > Do note that it does not support editing existing content because I do not have time to add that. It is easy once you have gone through the full project anyway.
 
 > Credit: LamaDev(YT)
+
+![Alt](https://repobeats.axiom.co/api/embed/463fc04d7d13c8b7add3023af7d5c9c22de3f009.svg "Repobeats analytics image")
