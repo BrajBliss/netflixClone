@@ -47,5 +47,3 @@ SECRET_KEY = YourSecretKey for CryptoJS
 ``` 
 
 > Credit: LamaDev(YT)
-
-![Alt](https://repobeats.axiom.co/api/embed/463fc04d7d13c8b7add3023af7d5c9c22de3f009.svg "Repobeats analytics image")
